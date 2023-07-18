@@ -11,3 +11,15 @@ This project provides a computer vision based technique for detecting fire and i
 <li>SMTPLIB</li>
 <li>HSV color</li>
 <li>Algorithm</li>
+<h1>Configuration & Setup</h1>
+<li>install playsound</li>
+
+pip install playsound
+
+<li>install openCV</li>
+
+pip install opencv-python
+
+<li>Execution</li>
+
+python firedetector.py
