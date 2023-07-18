@@ -12,14 +12,16 @@ This project provides a computer vision based technique for detecting fire and i
 <li>HSV color</li>
 <li>Algorithm</li>
 <h1>Configuration & Setup</h1>
-<li>install playsound</li>
+<li>Install playsound</li>
 
         pip install playsound
 
-<li>install openCV</li>
+<li>Install openCV</li>
 
         pip install opencv-python
 
 <li>Execution</li>
 
         python firedetector.py
+
+<h1>thank you</h1>
